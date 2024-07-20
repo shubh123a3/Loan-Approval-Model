@@ -85,10 +85,9 @@ The model development process involves the following steps:
 
 The final model achieved the following performance metrics on the test set:
 
-- **Accuracy**: X.XX
-- **Precision**: X.XX
-- **Recall**: X.XX
-- **F1-Score**: X.XX
+- **Accuracy**: 78
+- **Precision**: 97
+
 
 (Replace X.XX with actual values)
 
